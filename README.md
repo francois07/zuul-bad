@@ -252,7 +252,7 @@ Création de la commande ``alea`` permettant d'annuler le hasard des ``Transport
 ### Exercice 7.47
 Abstraction de la classe ``Command``.
 Création de la méthode abstraite ``execute()`` dans ``Command``.
-Création de classe ``[Nomdelacommande]Command`` pour chaque commande du jeu, modifiant à chaque fois la méthode ``execute()`` par celle qui lui correspond dans ``GameEngine``.
+Création de classe ``<commande>Command`` pour chaque commande du jeu, modifiant à chaque fois la méthode ``execute()`` par celle qui lui correspond dans ``GameEngine``.
 Suppression de toutes les méthodes de commandes dans ``GameEngine``.
 
 ### Exercice 7.47.1
