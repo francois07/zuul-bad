@@ -2,6 +2,10 @@
 [**Visiter le site web**](https://perso.esiee.fr/~soulief/IPO/francois/)
 
 ### Tables des matières
+- [Mon projet](#mon-projet)<br>
+- [Rapport d'exercices](#rapport-d'exercices)<br>
+- [Mode d'emploi](#mode-d'emploi)<br>
+- [Déclaration anti-plagiat](#déclaration-anti-plagiat)<br>
 
 ## Mon projet
 
@@ -192,7 +196,7 @@ Pour éviter cela, on crée une classe ``ItemList`` ayant pour seul attribut une
 ### Exercice 7.32
 Ajout des attributs ``maxWeight`` et ``currentWeight`` dans ``Player``, limitant ainsi la quantité d'objets que le joueurs peut porter.
 
-## Exercice 7.33
+### Exercice 7.33
 Ajout d'une méthode ``getItemString()`` dans ``ItemList`` qui retournera un ``String``
 contenant tous les items de sa ``HashMap`` sous la forme ``Item(<poids>)``.
 
@@ -252,3 +256,11 @@ Modification de la méthode ``getLongDescription()`` dans ``Room`` qui affiche m
 
 ### Exercice 7.53
 Création de la classe ``Main`` et de sa méthode statique initialisant une instance de ``Game``.
+
+## Mode d'emploi
+
+Les instructions relatives à l'installations et au lancement du jeu sont disponibles sur l'accueil du [site internet](https://perso.esiee.fr/~soulief/IPO/francois/) de ce dernier.
+
+## Déclaration anti-plagiat
+
+Ce sont des recherches sur la Javadoc officielle et sur des sites internets tels que **GeeksForGeeks** ou encore **StackOverflow** appuyant ces recherches qui m'ont permis de réaliser ce projet. Aucune partie de code trouvée sur internet n'a été réutilisée, hormis celle de zuul-bad evidemment.
