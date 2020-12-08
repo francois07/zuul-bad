@@ -1,0 +1,22 @@
+alea MiddleStreet
+take navigo
+take bag
+take beamer charge beamer
+fire beamer
+go down
+take keys
+go north
+go west
+take cookie
+eat cookie
+go east
+go east
+go north
+go up
+go south
+go north
+go east
+talk Robert
+talk Nathalie
+go east
+go east

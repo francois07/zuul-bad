@@ -1,0 +1,10 @@
+alea Bedroom
+go down
+go north
+go west
+go east
+alea
+go down
+go north
+go west
+go east

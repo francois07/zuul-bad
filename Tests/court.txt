@@ -1,0 +1,14 @@
+help
+inventory
+take keys
+inventory
+go up
+go down
+go north
+back
+go south
+go west
+take lol
+back
+back
+go east
