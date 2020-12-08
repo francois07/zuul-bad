@@ -4,9 +4,9 @@
 ### Tables des matières
 - [Mon projet](#mon-projet)<br>
     - [Thème](#thème)
-    - [Résumé du scénario](#résume-du-scénario)
+    - [Résumé du scénario](#résumé-du-scénario)
     - [Plan](#plan)
-    - [Détail des lieux, personnages, items](#détails-des-lieux-personnages-items)
+    - [Détail des lieux, personnages, items](#détails-des-lieux-items-personnages)
         - [Lieux](#lieux)
         - [Personnages](#personnages)
         - [Lieux](#items)
@@ -73,7 +73,7 @@ Arriver à l'heure à l'ESIEE
 - Oubli du pass navigo (Impossible de prendre le bus)
 - Oubli du sac de cours
 
-### Enigmes, mini-jeux
+### Énigmes, mini-jeux
 Des choix moraux et logiques: penser à prendre son sac de cours, ne pas frauder, ...
 
 ## Rapport d'exercices
