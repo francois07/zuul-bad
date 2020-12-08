@@ -3,18 +3,18 @@
 
 ### Tables des matières
 - [Mon projet](#mon-projet)<br>
-    - [Thème](#theme)
-    - [Résumé du scénario](#resume-du-scenario)
+    - [Thème](#thème)
+    - [Résumé du scénario](#résume-du-scénario)
     - [Plan](#plan)
-    - [Détail des lieux, personnages, items](#details-des-lieux-personnages-items)
+    - [Détail des lieux, personnages, items](#détails-des-lieux-personnages-items)
         - [Lieux](#lieux)
         - [Personnages](#personnages)
         - [Lieux](#items)
-    - [Situations gagnantes et perdantes](#situtations-gagnantes-et-perdantes)
-    - [Enigmes, mini-jeux](#enigmes-mini-jeux)
+    - [Situations gagnantes et perdantes](#situations-gagnantes-et-perdantes)
+    - [Enigmes, mini-jeux](#énigmes-mini-jeux)
 - [Rapport d'exercices](#rapport-dexercices)<br>
 - [Mode d'emploi](#mode-demploi)<br>
-- [Déclaration anti-plagiat](#declaration-anti-plagiat)<br>
+- [Déclaration anti-plagiat](#déclaration-anti-plagiat)<br>
 
 ## Mon projet
 
