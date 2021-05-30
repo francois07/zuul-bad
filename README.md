@@ -1,5 +1,4 @@
 # La grève (zuul-bad) : Projet d'IPO (A3P)
-[**Visiter le site web**](https://perso.esiee.fr/~soulief/IPO/francois/)
 
 ### Tables des matières
 - [Mon projet](#mon-projet)<br>
@@ -268,7 +267,7 @@ Création de la classe ``Main`` et de sa méthode statique initialisant une inst
 
 ## Mode d'emploi
 
-Les instructions relatives à l'installations et au lancement du jeu sont disponibles sur l'accueil du [site internet](https://perso.esiee.fr/~soulief/IPO/francois/) de ce dernier.
+Les instructions relatives à l'installations et au lancement du jeu sont disponibles sur l'accueil du site internet de ce dernier.
 
 ## Déclaration anti-plagiat
 
